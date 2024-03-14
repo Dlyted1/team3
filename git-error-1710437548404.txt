@@ -1,0 +1,255 @@
+> git add -A -- .
+warning: could not open directory 'AppData/Local/Application Data/': Permission denied
+warning: could not open directory 'AppData/Local/ElevatedDiagnostics/': Permission denied
+warning: could not open directory 'AppData/Local/History/': Permission denied
+warning: could not open directory 'AppData/Local/Microsoft/Windows/INetCache/Content.IE5/': Permission denied
+warning: could not open directory 'AppData/Local/Microsoft/Windows/Temporary Internet Files/': Permission denied
+warning: could not open directory 'AppData/Local/Temporary Internet Files/': Permission denied
+warning: could not open directory 'Application Data/': Permission denied
+warning: could not open directory 'Cookies/': Permission denied
+warning: could not open directory 'Documents/My Music/': Permission denied
+warning: could not open directory 'Documents/My Pictures/': Permission denied
+warning: could not open directory 'Documents/My Videos/': Permission denied
+warning: could not open directory 'Dropbox/TOSHIBA EXT.dbx-external-drive/scrapbook/Seagate Backup/MOORE/History/Level10/C/Documents and Settings/Kathy/Local Settings/Application Data/IM/Identities/{513F476B-6696-4F26-AD40-987AD88FA112}/Message Store/Attachments/{5874022C-E5BD-4AC4-87FB-F25A7D54E51A}/': Filename too long
+warning: could not open directory 'Dropbox/TOSHIBA EXT.dbx-external-drive/scrapbook/Seagate Backup/MOORE/History/Level10/C/Documents and Settings/Kathy/Local Settings/Application Data/IM/Identities/{513F476B-6696-4F26-AD40-987AD88FA112}/Message Store/Attachments/{A4B5422A-0628-40A1-A16F-36DD2593EBA8}/': Filename too long
+warning: could not open directory 'Dropbox/TOSHIBA EXT.dbx-external-drive/scrapbook/Seagate Backup/MOORE/History/Level2/C/Documents and Settings/Kathy/Local Settings/Application Data/IM/Identities/{513F476B-6696-4F26-AD40-987AD88FA112}/Message Store/Attachments/{5874022C-E5BD-4AC4-87FB-F25A7D54E51A}/': Filename too long
+warning: could not open directory 'Dropbox/TOSHIBA EXT.dbx-external-drive/scrapbook/Seagate Backup/MOORE/History/Level2/C/Documents and Settings/Kathy/Local Settings/Application Data/IM/Identities/{513F476B-6696-4F26-AD40-987AD88FA112}/Message Store/Attachments/{A4B5422A-0628-40A1-A16F-36DD2593EBA8}/': Filename too long
+warning: could not open directory 'Dropbox/TOSHIBA EXT.dbx-external-drive/scrapbook/Seagate Backup/MOORE/History/Level3/C/Documents and Settings/Kathy/Local Settings/Application Data/IM/Identities/{513F476B-6696-4F26-AD40-987AD88FA112}/Message Store/Attachments/{5874022C-E5BD-4AC4-87FB-F25A7D54E51A}/': Filename too long
+warning: could not open directory 'Dropbox/TOSHIBA EXT.dbx-external-drive/scrapbook/Seagate Backup/MOORE/History/Level3/C/Documents and Settings/Kathy/Local Settings/Application Data/IM/Identities/{513F476B-6696-4F26-AD40-987AD88FA112}/Message Store/Attachments/{A4B5422A-0628-40A1-A16F-36DD2593EBA8}/': Filename too long
+warning: could not open directory 'Dropbox/TOSHIBA EXT.dbx-external-drive/scrapbook/Seagate Backup/MOORE/History/Level4/C/Documents and Settings/Kathy/Local Settings/Application Data/IM/Identities/{513F476B-6696-4F26-AD40-987AD88FA112}/Message Store/Attachments/{5874022C-E5BD-4AC4-87FB-F25A7D54E51A}/': Filename too long
+warning: could not open directory 'Dropbox/TOSHIBA EXT.dbx-external-drive/scrapbook/Seagate Backup/MOORE/History/Level4/C/Documents and Settings/Kathy/Local Settings/Application Data/IM/Identities/{513F476B-6696-4F26-AD40-987AD88FA112}/Message Store/Attachments/{A4B5422A-0628-40A1-A16F-36DD2593EBA8}/': Filename too long
+warning: could not open directory 'Dropbox/TOSHIBA EXT.dbx-external-drive/scrapbook/Seagate Backup/MOORE/History/Level5/C/Documents and Settings/Kathy/Local Settings/Application Data/IM/Identities/{513F476B-6696-4F26-AD40-987AD88FA112}/Message Store/Attachments/{5874022C-E5BD-4AC4-87FB-F25A7D54E51A}/': Filename too long
+warning: could not open directory 'Dropbox/TOSHIBA EXT.dbx-external-drive/scrapbook/Seagate Backup/MOORE/History/Level5/C/Documents and Settings/Kathy/Local Settings/Application Data/IM/Identities/{513F476B-6696-4F26-AD40-987AD88FA112}/Message Store/Attachments/{A4B5422A-0628-40A1-A16F-36DD2593EBA8}/': Filename too long
+warning: could not open directory 'Dropbox/TOSHIBA EXT.dbx-external-drive/scrapbook/Seagate Backup/MOORE/History/Level6/C/Documents and Settings/Kathy/Local Settings/Application Data/IM/Identities/{513F476B-6696-4F26-AD40-987AD88FA112}/Message Store/Attachments/{5874022C-E5BD-4AC4-87FB-F25A7D54E51A}/': Filename too long
+warning: could not open directory 'Dropbox/TOSHIBA EXT.dbx-external-drive/scrapbook/Seagate Backup/MOORE/History/Level6/C/Documents and Settings/Kathy/Local Settings/Application Data/IM/Identities/{513F476B-6696-4F26-AD40-987AD88FA112}/Message Store/Attachments/{A4B5422A-0628-40A1-A16F-36DD2593EBA8}/': Filename too long
+warning: could not open directory 'Dropbox/TOSHIBA EXT.dbx-external-drive/scrapbook/Seagate Backup/MOORE/History/Level7/C/Documents and Settings/Kathy/Local Settings/Application Data/IM/Identities/{513F476B-6696-4F26-AD40-987AD88FA112}/Message Store/Attachments/{5874022C-E5BD-4AC4-87FB-F25A7D54E51A}/': Filename too long
+warning: could not open directory 'Dropbox/TOSHIBA EXT.dbx-external-drive/scrapbook/Seagate Backup/MOORE/History/Level7/C/Documents and Settings/Kathy/Local Settings/Application Data/IM/Identities/{513F476B-6696-4F26-AD40-987AD88FA112}/Message Store/Attachments/{A4B5422A-0628-40A1-A16F-36DD2593EBA8}/': Filename too long
+warning: could not open directory 'Dropbox/TOSHIBA EXT.dbx-external-drive/scrapbook/Seagate Backup/MOORE/History/Level8/C/Documents and Settings/Kathy/Local Settings/Application Data/IM/Identities/{513F476B-6696-4F26-AD40-987AD88FA112}/Message Store/Attachments/{5874022C-E5BD-4AC4-87FB-F25A7D54E51A}/': Filename too long
+warning: could not open directory 'Dropbox/TOSHIBA EXT.dbx-external-drive/scrapbook/Seagate Backup/MOORE/History/Level8/C/Documents and Settings/Kathy/Local Settings/Application Data/IM/Identities/{513F476B-6696-4F26-AD40-987AD88FA112}/Message Store/Attachments/{A4B5422A-0628-40A1-A16F-36DD2593EBA8}/': Filename too long
+warning: could not open directory 'Dropbox/TOSHIBA EXT.dbx-external-drive/scrapbook/Seagate Backup/MOORE/History/Level9/C/Documents and Settings/Kathy/Local Settings/Application Data/IM/Identities/{513F476B-6696-4F26-AD40-987AD88FA112}/Message Store/Attachments/{5874022C-E5BD-4AC4-87FB-F25A7D54E51A}/': Filename too long
+warning: could not open directory 'Dropbox/TOSHIBA EXT.dbx-external-drive/scrapbook/Seagate Backup/MOORE/History/Level9/C/Documents and Settings/Kathy/Local Settings/Application Data/IM/Identities/{513F476B-6696-4F26-AD40-987AD88FA112}/Message Store/Attachments/{A4B5422A-0628-40A1-A16F-36DD2593EBA8}/': Filename too long
+warning: could not open directory 'Local Settings/': Permission denied
+warning: could not open directory 'My Documents/': Permission denied
+warning: could not open directory 'NetHood/': Permission denied
+warning: could not open directory 'PrintHood/': Permission denied
+warning: could not open directory 'Recent/': Permission denied
+warning: could not open directory 'SendTo/': Permission denied
+warning: could not open directory 'Start Menu/': Permission denied
+warning: could not open directory 'Templates/': Permission denied
+warning: in the working copy of '.config/configstore/nodemon.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.config/configstore/update-notifier-nodemon.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.th-client/thunder-cache.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/argv.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/humao.rest-client-0.25.1/.vsixmanifest', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/humao.rest-client-0.25.1/CHANGELOG.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/humao.rest-client-0.25.1/LICENSE.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/humao.rest-client-0.25.1/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/humao.rest-client-0.25.1/dist/extension.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/humao.rest-client-0.25.1/images/copy-inverse.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/humao.rest-client-0.25.1/images/copy.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/humao.rest-client-0.25.1/images/save-body-inverse.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/humao.rest-client-0.25.1/images/save-body.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/humao.rest-client-0.25.1/images/save-inverse.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/humao.rest-client-0.25.1/images/save.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/humao.rest-client-0.25.1/language-configuration.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/humao.rest-client-0.25.1/package.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/humao.rest-client-0.25.1/scripts/main.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/humao.rest-client-0.25.1/snippets/http.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/humao.rest-client-0.25.1/styles/collapse-dark.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/humao.rest-client-0.25.1/styles/collapse-hc.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/humao.rest-client-0.25.1/styles/collapse.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/humao.rest-client-0.25.1/styles/expand-dark.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/humao.rest-client-0.25.1/styles/expand-hc.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/humao.rest-client-0.25.1/styles/expand.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/humao.rest-client-0.25.1/styles/reset.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/humao.rest-client-0.25.1/styles/rest-client.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/humao.rest-client-0.25.1/styles/vscode.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/humao.rest-client-0.25.1/syntaxes/http.tmLanguage.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/.depcheckrc', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/.github/ISSUE_TEMPLATE/bug_report.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/.github/ISSUE_TEMPLATE/feature_request.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/.github/ISSUE_TEMPLATE/question.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/.github/PULL_REQUEST_TEMPLATE.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/.github/dependabot.yml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/.github/workflows/actions/test-and-build/action.yaml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/.github/workflows/codeql.yml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/.github/workflows/draft-release.yaml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/.github/workflows/publish-release.yaml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/.github/workflows/rebuild-changelog.yaml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/.github/workflows/report-nightly-build-failures.yaml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/.github/workflows/test-and-build.yaml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/.prettierignore', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/.snyk', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/.vsixmanifest', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/CHANGELOG.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/LICENSE.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/THIRD_PARTY_NOTICES', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/constants.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/dist/extension.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/dist/extension.js.LICENSE.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/dist/languageServer.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/dist/languageServerWorker.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/dist/webviewApp.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/dist/webviewApp.js.LICENSE.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/dark/add.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/dark/collection-folder-closed.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/dark/collection-folder-open.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/dark/collection-timeseries.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/dark/connection-active.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/dark/connection-inactive.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/dark/database.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/dark/documents.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/dark/file-light.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/dark/help/atlas.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/dark/help/book.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/dark/help/leaf.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/dark/help/lightbulb.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/dark/help/megaphone.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/dark/help/report.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/dark/index/ascending.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/dark/index/descending.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/dark/index/geospatial.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/dark/index/hashed.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/dark/index/text.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/dark/indexes.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/dark/leaf.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/dark/play.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/dark/plus-circle.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/dark/refresh.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/dark/schema.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/dark/schema/array.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/dark/schema/binary.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/dark/schema/boolean.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/dark/schema/date.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/dark/schema/double.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/dark/schema/javascript.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/dark/schema/mixed-type.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/dark/schema/null.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/dark/schema/number.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/dark/schema/object-id.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/dark/schema/object.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/dark/schema/regex.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/dark/schema/string.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/dark/schema/timestamp.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/dark/search-regular.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/dark/stream-processor.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/dark/view-folder.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/light/add.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/light/collection-folder-closed.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/light/collection-folder-open.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/light/collection-timeseries.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/light/connection-active.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/light/connection-inactive.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/light/database.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/light/documents.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/light/file-light.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/light/help/atlas.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/light/help/book.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/light/help/leaf.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/light/help/lightbulb.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/light/help/megaphone.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/light/help/report.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/light/index/ascending.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/light/index/descending.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/light/index/geospatial.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/light/index/hashed.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/light/index/text.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/light/indexes.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/light/leaf.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/light/play.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/light/plus-circle.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/light/refresh.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/light/schema.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/light/schema/array.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/light/schema/binary.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/light/schema/boolean.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/light/schema/date.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/light/schema/double.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/light/schema/javascript.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/light/schema/mixed-type.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/light/schema/null.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/light/schema/number.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/light/schema/object-id.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/light/schema/object.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/light/schema/regex.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/light/schema/string.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/light/schema/timestamp.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/light/search-regular.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/light/stream-processor.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/light/view-folder.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/images/sidebar-leaf.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/jest.config.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/languages/mongodb-language-configuration.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/node-gyp-bug-workaround.sh', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/package.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/scripts/.eslintrc', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/scripts/no-npm-list-fail.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/scripts/sign-vsix.sh', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/scripts/snyk-test.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/snippets/atlas-terraform.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/syntaxes/mongodbInjection.tmLanguage.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/test-results.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions/mongodb.mongodb-vscode-1.5.0/test-webview-results.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.wdc/db/apps.tingo', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.wdc/db/banners.tingo', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.wdc/db/devices.tingo', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.wdc/logs/2024-03-14_06_pipe.log', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.wdc/logs_upload/2023-01-17_20_pipe.log', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.wdc/logs_upload/2023-05-19_14_pipe.log', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.wdc/logs_upload/2023-05-20_15_pipe.log', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.wdc/logs_upload/2023-05-20_23_pipe.log', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.wdc/logs_upload/2023-05-21_00_pipe.log', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.wdc/logs_upload/2023-05-22_08_pipe.log', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.wdc/logs_upload/2023-08-03_18_pipe.log', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.wdc/logs_upload/2023-08-07_13_pipe.log', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.wdc/logs_upload/2023-08-10_01_pipe.log', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.wdc/logs_upload/2023-09-17_00_pipe.log', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.wdc/logs_upload/2023-09-17_07_pipe.log', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.wdc/logs_upload/2023-09-18_12_pipe.log', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.wdc/logs_upload/2023-09-27_15_pipe.log', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.wdc/logs_upload/2023-10-13_16_pipe.log', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.wdc/logs_upload/2023-10-14_02_pipe.log', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.wdc/logs_upload/2023-10-14_15_pipe.log', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.wdc/logs_upload/2023-11-25_05_pipe.log', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.wdc/logs_upload/2024-01-02_14_pipe.log', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.wdc/logs_upload/2024-02-20_18_pipe.log', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.wdc/logs_upload/2024-02-24_07_pipe.log', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.wdc/logs_upload/2024-03-07_02_pipe.log', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.wdc/logs_upload/2024-03-10_19_pipe.log', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.wdc/settings.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.wdc/system-data.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.wdc/update-info.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'AppData/Local/Adobe/AcroCef/DC/Acrobat/Cache/CURRENT', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'AppData/Local/Adobe/AcroCef/DC/Acrobat/Cache/LOG', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'AppData/Local/Adobe/AcroCef/DC/Acrobat/Cache/LOG.old', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'AppData/Local/Adobe/AcroCef/DC/Acrobat/Cache/Local Storage/leveldb/CURRENT', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'AppData/Local/Adobe/AcroCef/DC/Acrobat/Cache/Local Storage/leveldb/LOG', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'AppData/Local/Adobe/AcroCef/DC/Acrobat/Cache/Local Storage/leveldb/LOG.old', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'AppData/Local/Adobe/AcroCef/DC/Acrobat/Cache/Session Storage/CURRENT', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'AppData/Local/Adobe/AcroCef/DC/Acrobat/Cache/Session Storage/LOG', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'AppData/Local/Adobe/AcroCef/DC/Acrobat/Cache/Session Storage/LOG.old', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'AppData/Local/Adobe/Acrobat/DC/AdobeCMapFnt23.lst', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'AppData/Local/Adobe/Acrobat/DC/AdobeSysFnt23.lst', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'AppData/Local/Adobe/Acrobat/DC/Cache/AcroFnt23.lst', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'AppData/Local/Adobe/OOBE/com.adobe.acc.ccexpress.A6E13FE55BFA04280A495DE7.prefs', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'AppData/Local/Adobe/OOBE/com.adobe.acc.container.81985888557EEBE67F000101.prefs', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'AppData/Local/Adobe/OOBE/com.adobe.acc.container.A6E13FE55BFA04280A495DE7.prefs', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'AppData/Local/Adobe/OOBE/com.adobe.acc.container.default.prefs', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'AppData/Local/Adobe/OOBE/com.adobe.acc.default.prefs', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'AppData/Local/Adobe/OOBE/com.adobe.acc.files.81985888557EEBE67F000101.prefs', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'AppData/Local/Adobe/OOBE/com.adobe.acc.files.A6E13FE55BFA04280A495DE7.prefs', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'AppData/Local/Adobe/OOBE/com.adobe.acc.fonts.default.prefs', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'AppData/Local/Adobe/OOBE/com.adobe.acc.onboarding.81985888557EEBE67F000101.prefs', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'AppData/Local/Adobe/OOBE/com.adobe.acc.onboarding.A6E13FE55BFA04280A495DE7.prefs', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'AppData/Local/Adobe/OOBE/com.adobe.accc.apps.81985888557EEBE67F000101.prefs', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'AppData/Local/Adobe/OOBE/com.adobe.accc.apps.A6E13FE55BFA04280A495DE7.prefs', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'AppData/Local/Adobe/OOBE/com.adobe.accc.apps/conflicting/_data', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'AppData/Local/Adobe/OOBE/com.adobe.accc.container/features/E7FE77A7607DB9630A495E0B@byui.edu/_data', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'AppData/Local/Adobe/OOBE/com.adobe.accc.container/loggedOutFeatures/AnonymousUser/_data', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'AppData/Local/Adobe/TypeSupport/AdobeFnt22.lst', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'AppData/Local/CEF/User Data/WidevineCdm/4.10.2710.0/LICENSE', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'AppData/Local/CEF/User Data/WidevineCdm/4.10.2710.0/manifest.json', LF will be replaced by CRLF the next time Git touches it
+error: open("AppData/Local/Comms/UnistoreDB/USS.jtx"): Permission denied
+error: unable to index file 'AppData/Local/Comms/UnistoreDB/USS.jtx'
+fatal: adding files failed
